@@ -1,0 +1,8 @@
+//Pseudo code of the Orange Orders Program (orange_orders.js)
+//start Program
+//enter name, date, description
+// title orange orders
+//prompt user to enter how many orange ordering
+// calculate cost of the order (1.99/lb)
+//calculate shipping cost (flat 7.5 >=, reduced by 1.5)
+// display size of order, cost, shipping cost and total

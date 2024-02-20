@@ -1,0 +1,18 @@
+start program
+
+display title for program "question 2, weekly loan calculator
+
+//input
+get amount of loan "enter the amount of loan" (var=loan)
+get interest rate "enter the interest rate %" (var int)
+get years "enter the number of years" (year)
+
+
+//process
+calculate itax. itax = (int/5200) 
+calculate weekly payment (i / (1- (1 + 1)-52year)) * loan
+
+
+
+//output
+display "your weekly payment will be:"

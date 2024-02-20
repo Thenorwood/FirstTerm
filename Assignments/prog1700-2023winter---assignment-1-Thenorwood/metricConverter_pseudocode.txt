@@ -1,0 +1,25 @@
+staRT program
+
+display title for program "quesiton 3, imperial to metric converter:
+
+//input
+get tons = enter the amount of tons
+get stones = enter amount of stones
+get pounds = enter amount of pounds
+get ounces = enter amount of ounces
+
+//process
+
+calculate tons to metric tons 
+calculate stones and pounds to kilograms
+calculate ounces to grams
+calculate 
+
+translate metric to metric conversions
+let totalkg =
+let tons = totalkg/1000
+let kg = parseint (totalkg-tons*1000)
+let totalgrams = parseint((totalkg - kg - tons*1000)*1000)
+
+/output
+display "the metric weight is" ? "metric tons," ? "kilos and" ? "grams"

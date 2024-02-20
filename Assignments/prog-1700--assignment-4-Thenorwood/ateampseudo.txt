@@ -1,0 +1,10 @@
+1. Import necessary modules.
+3. Read data from the file into an array.
+4. Process the array according to the rules:
+a. Add a line number to the beginning of each line.
+b. Convert lines longer than 20 characters to lowercase.
+c. Convert lines 20 characters or less to uppercase.
+d. Randomly select a line and omit it from the output.
+5. Output the altered text to the console.
+6. Save the altered text to a new file.
+7. Define the entry point of the program to call the main function.

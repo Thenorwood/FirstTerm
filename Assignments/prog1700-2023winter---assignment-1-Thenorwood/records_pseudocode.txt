@@ -1,0 +1,20 @@
+start program
+
+display title for program
+//input
+prompt and ask user to input name. var= name
+prompt and ask user to input kilometers var= kilometers
+prompt and ask for record cost= var=cost
+
+//process
+calculate delivery cost (kilometers x 15) = dcost
+calculate purchase cost (cost x 1.14) assign a variable = pcost
+calculate total amount ( cost + kilometers) = tcost
+
+//output
+displ;ay title "purchase summary" with customers name
+display delivery cost (dcost)
+display purchase cost (pcost)
+display tota amount (tcost)
+
+program end
